@@ -1,0 +1,7 @@
+
+===============
+05-09-2022
+===============
+
+• Fixed SimCard detect issue
+• Fixed Proximity Sensor 
