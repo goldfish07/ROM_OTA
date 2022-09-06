@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1662386225,
+      "datetime": 1662427412,
       "filename": "lineage_j8y18lte-ota-eng.gold.zip",
       "id": "5eb63bbbe015565bbee422bb8f5acdc3",
       "romtype": "unofficial",
-      "size": 554936084,
-      "url": "https://master.dl.sourceforge.net/project/samsung-j8y18lte/CustomRom/Lineage/18.0/lineage-18.0-20220905-UNOFFICIAL-j8y18lte.zip?viasf=1",
+      "size": 554936726,
+      "url": "https://master.dl.sourceforge.net/project/samsung-j8y18lte/CustomRom/Lineage/18.0/lineage-18.0-20220906-UNOFFICIAL-j8y18lte.zip?viasf=1",
       "version": "18.0"
     }
   ]
